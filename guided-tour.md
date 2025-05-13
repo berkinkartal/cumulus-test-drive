@@ -1,7 +1,7 @@
 # Cumulus Linux Test Drive: Lab Guide
 
 # Topology
-![air_simulation](https://raw.githubusercontent.com/NVIDIA/cumulus-test-drive/main/testdrive_topology.png) 
+![air_simulation](https://raw.githubusercontent.com/berkinkartal/cumulus-test-drive/main/testdrive_topology.png) 
 
 ## Lab Credentials
 
