@@ -1,9 +1,8 @@
 # Cumulus Linux Test Drive: Lab Guide
 
 # Topology
-![air_simulation-1](https://raw.githubusercontent.com/berkinkartal/cumulus-test-drive/main/testdrive_topology.png)  
-![air_simulation-2](https://raw.githubusercontent.com/berkinkartal/cumulus-test-drive/main/testdrive_topology.png)  
-![air_simulation-3](https://raw.githubusercontent.com/berkinkartal/cumulus-test-drive/main/CL_Workshop.svg)  
+![air_simulation-1](https://gitlab.com/cumulus-consulting/goldenturtle/cumulus_ansible_modules/-/raw/evpn_demo_nvue_5.x/testdrive_topology.png?ref_type=heads&inline=false)  
+![air_simulation-2](https://gitlab.com/cumulus-consulting/goldenturtle/cumulus_ansible_modules/-/raw/evpn_demo_nvue_5.x/CL_Workshop.svg?ref_type=heads)  
 
 ## Lab Credentials
 
